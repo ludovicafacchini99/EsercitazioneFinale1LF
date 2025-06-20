@@ -1,2 +1,2 @@
 # EsercitazioneFinale1LF
-Esercitazione Finale 1 di Ludovica Facchini
+Esercitazione Finale 1 di Ludovica Facchini -- Excel
